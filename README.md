@@ -1,2 +1,3 @@
 # CCA
-A flow of some colombian project we are working on
+A flow of some colombian project we are working on. Start from the data then proceed to the analysis and finally the results.
+
