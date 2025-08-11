@@ -1,0 +1,32 @@
+STICS MODEL CALIBRATED PARAMETERS
+==================================================
+
+Study Area: Dominican Republic
+Crop Type: rice
+Calibration Date: 2025-08-11 15:38:48
+
+PHENOLOGY PARAMETERS:
+------------------------------
+date_debut: 90
+date_fin: 270
+durvieF: 108
+durvieI: 36
+durvieR: 72
+growth_rate_calibrated: 0.020249999999999997
+
+LAI PARAMETERS:
+------------------------------
+sla: 0.025
+tigefeuil: 3.4359905910807043
+rapforme: 0.8
+laicomp: 1.467491184128641
+laieff: 4.402473552385923
+max_lai_calibrated: 4.891637280428804
+lai_duration_calibrated: 318.0
+
+CALIBRATION NOTES:
+------------------------------
+• Parameters calibrated from satellite-derived phenology and LAI
+• Based on MODIS NDVI and LAI time series analysis
+• Validated against ground truth where available
+• Recommended for use in STICS model simulations

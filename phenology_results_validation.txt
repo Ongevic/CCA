@@ -1,0 +1,21 @@
+PHENOLOGY ANALYSIS VALIDATION RESULTS
+==================================================
+
+SOS_RANGE:
+{'min': np.float64(22.761979797927822), 'max': np.float64(235.58194471964163), 'valid': np.True_}
+
+EOS_RANGE:
+{'min': np.float64(209.05460896862064), 'max': np.float64(365.0), 'valid': np.True_}
+
+LOS_RANGE:
+{'min': np.float64(119.60975688358349), 'max': np.float64(258.5247541287265), 'valid': np.True_}
+
+LOGICAL_CONSISTENCY:
+{'sos_before_eos': np.True_, 'los_positive': np.True_, 'seasonality_range': np.True_}
+
+STATISTICS:
+{'sos_mean': np.float64(120.57996167466976), 'sos_std': np.float64(29.37647814539027), 'eos_mean': np.float64(300.15689587768446), 'eos_std': np.float64(34.55677493497178), 'los_mean': np.float64(180.1166842911205), 'los_std': np.float64(19.669085622041475)}
+
+QUALITY_METRICS:
+{'sample_size': 1000, 'data_completeness': 1.0, 'outlier_percentage': {'sos': 0.8, 'eos': 0.0, 'los': 1.0}, 'confidence_intervals': {'sos': {'mean': np.float64(120.57996167466976), 'lower_ci': np.float64(118.75918869542735), 'upper_ci': np.float64(122.40073465391217)}, 'eos': {'mean': np.float64(300.15689587768446), 'lower_ci': np.float64(298.01504477695164), 'upper_ci': np.float64(302.2987469784173)}, 'los': {'mean': np.float64(180.1166842911205), 'lower_ci': np.float64(178.89758173397348), 'upper_ci': np.float64(181.3357868482675)}}}
+

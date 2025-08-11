@@ -1,0 +1,27 @@
+ENHANCED DUAL-SEASON PHENOLOGY ANALYSIS METADATA
+============================================================
+
+Study Area: Dominican Republic
+Analysis Period: 2015-2022
+Number of Years: 8
+Years Analyzed: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+
+Growing Seasons:
+  Main Season: December-June (Planting Dec-Feb, Harvest Apr-Jun)
+  Second Season: April-November (Planting Apr-Jul, Harvest Aug-Nov)
+
+Sample Sizes:
+  Total Pixels: 8000
+  Rice Pixels: 5584
+  Main Season Pixels: 3909
+  Second Season Pixels: 3326
+
+Key Metrics:
+  - Start of Season (SOS): Day of year when vegetation growth begins
+  - End of Season (EOS): Day of year when vegetation growth ends
+  - Length of Season (LOS): Duration of growing season in days
+  - Seasonality Index: Measure of seasonal variation strength (0-1)
+  - Growth Rate: Rate of vegetation development during peak growth
+  - Annual Amplitude: Primary seasonal cycle strength
+  - Peak NDVI: Maximum vegetation index during growing season
+  - Variability Index: Measure of inter-annual variability
